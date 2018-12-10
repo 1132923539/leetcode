@@ -2,6 +2,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  * @author eltons,  Date on 2018-11-24.
+ * 两数相加（链表）
  */
 public class Solution2 {
     @Test

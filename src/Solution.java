@@ -1,5 +1,6 @@
 /**
  * @author eltons,  Date on 2018-11-21.
+ * 两数之和，给定一个数组，和一个数sum，返回数组中两个相加能得到sum的数的下标
  */
 class Solution {
     public int[] twoSum(int[] nums, int target) {
