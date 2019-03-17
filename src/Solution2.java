@@ -1,4 +1,4 @@
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * @author eltons,  Date on 2018-11-24.
